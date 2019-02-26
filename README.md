@@ -1,7 +1,10 @@
 # bert-for-srl
 
-this project is for Semantic role labeling using bert.
+SRL Is important NLP problem. This project is to test bert for SRL for a small domain of SRL problem. 
 
+
+
+------- Forked from zhangguoxiao/bert-for-srl ------
 
 # part one: Introduction
 
